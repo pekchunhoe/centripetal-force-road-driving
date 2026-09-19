@@ -4,3 +4,6 @@ playwright-report/
 .browser-test-profile/
 .npm-cache/
 dist/
+
+.vercel
+.env*
